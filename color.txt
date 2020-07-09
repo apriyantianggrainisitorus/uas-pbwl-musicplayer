@@ -1,0 +1,21 @@
+dimgray --> koral terang/Moccasin/black
+ #D7BDE2 -> khaki/Bisque
+ #fFF5EE -> LemonChiffon/snow
+ salmon->PapayaWhip/MediumOrchid
+#FADBD8-->Wheat/Moccasin/Lavender
+-->MistyRose
+bg-succes->bg-info
+(NAMA DATA)->PaleVioletRed
+TULISN DALAM TABEL -> indianred 
+btn edit -> btn-success
+btn delete -> btn-warning
+h2: PaleVioletRed
+.btn : MediumVioletRed
+label : PaleVioletRed
+background-color : PapayaWhip/color : black
+table th : brown
+</thead> untuk btn tambah
+text-align:center; = untuk nama data
+
+NAMA DATA : Marck Script
+	<link href="https://fonts.googleapis.com/css2?family=Marck+Script&display=swap" rel="stylesheet">
